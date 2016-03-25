@@ -7,17 +7,17 @@
 ## Build
 
 ```shell
-git clone ...
+git clone https://github.com/aliyun/aliyun-oss-java-sdk.git
 cd aliyun-oss-java-sdk
-mvn clean packge -DskipTests
+mvn clean package -DskipTests
 ```
 
-- to run function tests, you will have to config user account in src/test/java/com/aliyun/oss/integrationtests/TestConfig.java, 
+- to run function tests, you will have to config user account in src/test/java/com/aliyun/oss/integrationtests/TestConfig.java
 
 ## Authors && Contributors
 
-- [Xing Mengbang](https://github.com/xingfeng2510)
-- [Zhang Ting](https://github.com/dengwu12)
+- [Yubin Bai](https://github.com/baiyubin)
+- [Mengbang Xing](https://github.com/xingfeng2510)
 
 ## License
 
